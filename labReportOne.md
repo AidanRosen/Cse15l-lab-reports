@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/43625295/211910009-765fcbab-e838-42c1-b14a-3b1d8f6fdcc4.png)
 
 
-Note: Type "yes" even though the server can't authenticate security. You won't see any changes while typing in your password, just type in your password. If your password doesn't work, try resetting
+Note: Type "yes" even though the server can't establish security. You won't see any changes while typing in your password, just type in your password. If your password doesn't work, try resetting
 
 
 ***
