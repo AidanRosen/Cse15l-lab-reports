@@ -35,7 +35,7 @@ Note: Type "yes" even though the server can't establish security. You won't see 
 - This terminal acts like any old one, except that you're accessing a remote directory. Try listing the directory! Try navigating around it.
 
 
-## You may even get some interesting results!
+# You may even get some interesting results!
 
 ![image](https://user-images.githubusercontent.com/43625295/211910481-b13246e6-585b-47e7-9620-ba6e7ef32b54.png)
 
