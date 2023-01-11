@@ -8,10 +8,10 @@
 
 ***
 
-##Remotely Connection
+## Remotely Connecting
 - First you need to open a terminal in VS code. 
 -  * _For both Mac and Windows, the command is_ control (**not** command) + "\`" <-- in the upper left, on tilde "~"
-- Before logging in, you MUST reset your password online!
+- Before logging in, you _**MUST**_ reset your password online!
 -  * Remember where you found your 15l account? [It was here](https://jpolitz.github.io/cse-15l-lab-report/index.html).
 -  * Press "reset your password" at the top of the 15l area, regardless of whether your current password works
 -  * Resetting sets the password up for ssh. Don't worry, you can reuse your old one.
