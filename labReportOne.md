@@ -28,7 +28,7 @@ Note: Type "yes" even though the server can't authenticate security. You won't s
 
 ## Trying some commands:
 
-- Now that you're logged in, it should look like this:
+- Now that you're logged in, it should look like this (yes, it will say last failed login):
 
 ![image](https://user-images.githubusercontent.com/43625295/211909592-bbaaec64-621c-46fd-b519-ea1a25589f7d.png)
 
