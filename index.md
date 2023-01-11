@@ -21,3 +21,11 @@ This is some testing writing
 ***
 
 `In line code!`
+
+1. this is a list
+2. Two
+3. Three
+
+- This is a lis too
+- But it has no numbers
+
