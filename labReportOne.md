@@ -5,6 +5,11 @@
 ## Installing VS Code
 - I used the lab computer, so I didn't need to download VS Code. 
 - However, installing is straightforward - follow the instructions given by the installer!
+- * The installer is [here](https://code.visualstudio.com/Download)
+
+###The end result should look like this:
+![image](https://user-images.githubusercontent.com/43625295/215300075-c5591934-a5bb-4fc7-a361-54659e65371e.png)
+
 
 ***
 
