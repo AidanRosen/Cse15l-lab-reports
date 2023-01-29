@@ -45,4 +45,7 @@ Note: Type "yes" even though the server can't establish security. You won't see 
 
 ![image](https://user-images.githubusercontent.com/43625295/211910481-b13246e6-585b-47e7-9620-ba6e7ef32b54.png)
 
+1. My ls command lists all the files in the directory I landed in after SSHing in.
+2. The -a suffix caused hidden files to appear.
+3. The -l suffix in the third command brought more details with the file listings.
 
