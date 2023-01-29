@@ -21,9 +21,9 @@ The end result, after installing and opening, should look like this:
 -  * Press "reset your password" at the top of the 15l area, regardless of whether your current password works
 -  * Resetting sets the password up for ssh. Don't worry, you can reuse your old one.
 - Now, go to the terminal and type in the command: 
-- '''
+- ```
 - ssh [your 15l username]@ieng6.ucsd.edu //<-- replace the brackets part with your username
-- '''
+- ```
 - It should look like this:
 ![image](https://user-images.githubusercontent.com/43625295/211910009-765fcbab-e838-42c1-b14a-3b1d8f6fdcc4.png)
 
