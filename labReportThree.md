@@ -1,4 +1,4 @@
-#Part One
+# Part One
 
 Here's the code behind my StringServer:
 ![image](https://user-images.githubusercontent.com/43625295/215660005-f2446b12-d2d7-4f04-b8ab-0ee75cda588f.png)
@@ -13,21 +13,21 @@ To start the server, the Server.start method triggers on the port, 3000 which wa
 
 Interestingly, there's a bar of space above the "hello". This is from going to the add-string route and putting in a blank parameter, which appended a "/n" character to my empty string.
 
-##After adding "hello":
+## After adding "hello":
 
 ![image](https://user-images.githubusercontent.com/43625295/215659475-7e01477c-6d54-454b-8df8-c77aae0c24b9.png)
 
 Inside the handleRequest method, my servers string is now "/n" + hello.
 
 
-##After adding "how are you":
+##A fter adding "how are you":
 
 ![image](https://user-images.githubusercontent.com/43625295/215659536-631ec4e9-f5a9-453f-86d8-783d0683177d.png)
 
 Like before, the server string is now "/n" + Hello + "/n" + How are you
 
 
-#Part Two
+# Part Two
 
 For the array reverse in place method, the input {1, 2, 3} did not produce {3, 2, 1} as expected.:
 ```
@@ -90,7 +90,7 @@ The original code:
  By creating a temp variable, I prevented the loss of information. By changing the loop to go up to arr.length/2, I swap elements around the middle, not swapping all the way through and ending up with what I originally started with.
  
  
- #Part 3
+ # Part 3
  
  I learned that JUnit can be prone to heap errors - both my partner and I experienced heap issues when working with array comparisons that were just a little too big. I also learned about Github Desktop and having issues with my terminal saying "main classpath not found" and some relation it may have to Github Desktop.
  
