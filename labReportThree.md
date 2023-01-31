@@ -6,7 +6,7 @@ Here's the code behind my StringServer:
 
 To start the server, the Server.start method triggers on the port, 3000 which was written in directly.
 
-##Before adding a string:
+## Before adding a string:
 - The url has no add-string written in, so the page defaults to show the empty, default string. This is within the handleRequest method.
 
 ![image](https://user-images.githubusercontent.com/43625295/215659393-5ce916d7-25c4-4f70-9d3d-d9d5df968a92.png)
