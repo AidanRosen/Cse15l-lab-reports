@@ -20,7 +20,7 @@ Interestingly, there's a bar of space above the "hello". This is from going to t
 Inside the handleRequest method, my servers string is now "/n" + hello.
 
 
-##A fter adding "how are you":
+## A fter adding "how are you":
 
 ![image](https://user-images.githubusercontent.com/43625295/215659536-631ec4e9-f5a9-453f-86d8-783d0683177d.png)
 
