@@ -1,0 +1,2 @@
+Before adding a string:
+
