@@ -7,8 +7,9 @@
 ![image](https://user-images.githubusercontent.com/43625295/218609192-1b0cd620-c0e2-431b-b243-06190f54c55b.png)
 
 * Second example: -F closing automatically after displaying: 
-* 
-<img src="https://user-images.githubusercontent.com/43625295/218609918-f079e8ad-17b4-49a4-b5ae-f52a5366987e.png" width=50% height=50%>
+
+![image](https://user-images.githubusercontent.com/43625295/218668094-ed2e3260-216d-448b-8d2f-04ab150f9c99.png)
+
 
 * In the first command call, the file output doesn't close automatically, but for the Hawaii text file, the output is right beneath the command call, as if the file were concatenated instead. -F can be useful for detecting files that output small enough to fit on a screen.
 
