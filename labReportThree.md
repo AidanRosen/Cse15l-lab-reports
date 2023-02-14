@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/43625295/218646391-dec86031-8637-4950-af8e-c08bba8a1ac4.png)
 
 * Second example:
-* 
+
 ![image](https://user-images.githubusercontent.com/43625295/218646629-ab1d0a75-5099-4538-87cc-d4e77b2e1e22.png)
 
 
@@ -36,7 +36,7 @@
 ![image](https://user-images.githubusercontent.com/43625295/218647136-4b83f440-0863-44ea-a15d-5706068b21a5.png)
 
 * Second example:
-* 
+
 ![image](https://user-images.githubusercontent.com/43625295/218647191-683da676-d7d1-4aa7-862c-3194bc0308b7.png)
 
 
