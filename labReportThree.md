@@ -48,6 +48,7 @@
 
 
 Citations and Sources:
-[How-to-Geek](https://www.geeksforgeeks.org/less-command-linux-examples/)
-[Online documentation](https://www.man7.org/linux/man-pages/man1/less.1.html)
+
+- [How-to-Geek](https://www.geeksforgeeks.org/less-command-linux-examples/)
+- [Online documentation](https://www.man7.org/linux/man-pages/man1/less.1.html)
 
