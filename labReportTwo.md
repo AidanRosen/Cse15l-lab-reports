@@ -1,7 +1,9 @@
 # Part One
 
 Here's the code behind my StringServer:
-<img src="https://user-images.githubusercontent.com/43625295/215660005-f2446b12-d2d7-4f04-b8ab-0ee75cda588f.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/43625295/215660005-f2446b12-d2d7-4f04-b8ab-0ee75cda588f.png" width=50% height=50%>
+
+
 
 
 
