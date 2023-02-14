@@ -9,6 +9,8 @@
 * Second example: -F closing automatically after displaying: 
 ![image](https://user-images.githubusercontent.com/43625295/218609918-f079e8ad-17b4-49a4-b5ae-f52a5366987e.png)
 
+* In the first command call, the file output doesn't close automatically, but for the Hawaii text file, the output is right beneath the command call, as if the file were concatenated instead. -F can be useful for detecting files that output small enough to fit on a screen.
+
 
 ## -N to display line numbers:
 
@@ -20,6 +22,8 @@
 
 ![image](https://user-images.githubusercontent.com/43625295/218645352-c1c7938b-9492-489c-9dc2-7daa59e7bbe9.png)
 
+* The -N option is a really straightforward modificaiton of the output that simply adds a line number. Useful for reading though.
+
 
 ## -U to notice markup characters:
 ![image](https://user-images.githubusercontent.com/43625295/218646416-f5eac940-bccb-4741-88e2-d30101807b09.png)
@@ -29,6 +33,7 @@
 
 ![image](https://user-images.githubusercontent.com/43625295/218646629-ab1d0a75-5099-4538-87cc-d4e77b2e1e22.png)
 
+* -U is *very* useful for finding markdown characters in case they are causing glitches or interesting effects like in class a few weeks ago!
 
 ## -m to display a percent for amount scrolled through:
 ![image](https://user-images.githubusercontent.com/43625295/218647176-48a0190d-26ef-409f-8097-9000c78d1ebc.png)
@@ -39,7 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/43625295/218647191-683da676-d7d1-4aa7-862c-3194bc0308b7.png)
 
-
+* The -m option changes the marker at the bottom of the -less screen to display a percent scrolled through. Useful for tracking how much you've read so far.
 
 
 Citations and Sources:
