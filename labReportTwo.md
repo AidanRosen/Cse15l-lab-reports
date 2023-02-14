@@ -21,14 +21,14 @@ Interestingly, there's a bar of space above the "hello". This is from going to t
 
 ![image](https://user-images.githubusercontent.com/43625295/215659475-7e01477c-6d54-454b-8df8-c77aae0c24b9.png)
 
-Inside the handleRequest method, my servers string is now "/n" + hello.
+Inside the handleRequest method, my servers string is now "/n" + hello. The String string field is what retains the input, and the field is modified by the parameters element at index 1 in the inputted string args.
 
 
 ## After adding "how are you":
 
 ![image](https://user-images.githubusercontent.com/43625295/215659536-631ec4e9-f5a9-453f-86d8-783d0683177d.png)
 
-Like before, the server string is now "/n" + Hello + "/n" + How are you
+Like before, the server string is now ```"/n" + Hello + "/n" + How are you```. Since the code is literally ```string += "\n" + parameters[1]```, the string field only ever builds on itself without resetting.
 
 
 # Part Two
@@ -44,7 +44,7 @@ public void TestReverseInPlace(){
 }
 ```
 
-The non-failure inducing input:
+The non-failure inducing input, {1}, which produced {1} as expected:
 
 ```
 @Test
@@ -57,11 +57,9 @@ public void TestReverseInPlace(){
 ```
 
 
-Error with input {1, 2, 3}:
-![image](https://user-images.githubusercontent.com/43625295/215668791-d135e22a-2464-41ca-b1cd-cf4d13fa115b.png)
+Error with input {1, 2, 3} versus no errors with input {1}:
 
-No error with input {1}:
-![image](https://user-images.githubusercontent.com/43625295/215668747-2927d0f9-b71c-4677-aef6-b86027213f45.png)
+![image](https://user-images.githubusercontent.com/43625295/218663353-99c4aab7-3867-4541-aef9-3859ef848ecf.png)
 
 
 
@@ -91,7 +89,7 @@ The original code:
   }
  ```
  
- By creating a temp variable, I prevented the loss of information. By changing the loop to go up to arr.length/2, I swap elements around the middle, not swapping all the way through and ending up with what I originally started with.
+ By creating a temp variable, I prevented the loss of information from setting the current indexed element to something else. In other words, I saved the changed data to be used again at ```arr[arr.length - i - 1] = temp```. By changing the loop to go up to arr.length/2, I swap elements around the middle, not swapping all the way through and ending up with what I originally started with.
  
  
  # Part 3
