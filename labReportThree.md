@@ -9,10 +9,13 @@ Second example: -F closing automatically after displaying:
 
 
 -N to display line numbers:
+
 ![image](https://user-images.githubusercontent.com/43625295/218645404-771ade45-9c08-45d7-b70d-56159a0acbe0.png)
+
 ![image](https://user-images.githubusercontent.com/43625295/218645288-27e63f15-b201-452a-97d7-cd44931b0119.png)
 
 And a second example:
+
 ![image](https://user-images.githubusercontent.com/43625295/218645352-c1c7938b-9492-489c-9dc2-7daa59e7bbe9.png)
 
 
