@@ -2,10 +2,7 @@
 
 Here's the code behind my StringServer:
 
-<img src="https://user-images.githubusercontent.com/43625295/215660005-f2446b12-d2d7-4f04-b8ab-0ee75cda588f.png" width=50% height=50%/>
-
-
-
+![image](https://user-images.githubusercontent.com/43625295/218667712-901286a9-245f-45f3-a751-b0f32b72eea5.png)
 
 
 To start the server, the Server.start method triggers on the port, 3000 which was written in directly.
