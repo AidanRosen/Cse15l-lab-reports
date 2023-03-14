@@ -41,3 +41,11 @@ The good lesson from this is, if I'm using JDB to ~~pirate software~~ figure out
 ![image](https://user-images.githubusercontent.com/43625295/224887800-27eb8550-bba7-4cfe-bebf-37af98101c63.png)
 
 The x and the moving dot on the left side of the tab meant the server was stuck - which is exactly what I wanted. Plus, the terminal told me the code reached the breakpoint anyway. I wonder if it's possible for breakpoints to be leftover in programs, and if it can cause frozen servers.
+
+Annoyingly though, I ran into errors like this with jdb:
+![image](https://user-images.githubusercontent.com/43625295/224906203-30909568-685e-4ef4-bd5d-7a437798ec84.png)
+
+
+So I had to parse Stack Overflow for a [useful post](https://stackoverflow.com/questions/12737293/how-do-i-resolve-the-java-net-bindexception-address-already-in-use-jvm-bind) which then led me to a [windows command](https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows) since the linux one wouldn't work
+
+Furthermore, JDB is weird in that it can't put breakpoints on blank lines in the IDE - it needs to stop at an actual command.
