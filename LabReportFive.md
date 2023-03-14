@@ -10,8 +10,9 @@
 So in this example, I could notice really easily that my line-break character is at the start of the string rather than at the end, and that's why strings sent to the server look so weird.
 Obviously, I could see that myself in my code BUT - what if I were on a remote machine without VScode open?
 
-
-
+<br>
+<br>
+<br>
 ### Then I'd have to do something like this:
 ![image](https://user-images.githubusercontent.com/43625295/224886478-bfc6d094-b181-4d5e-8c60-a5ab46963095.png)
 
