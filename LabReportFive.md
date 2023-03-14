@@ -49,3 +49,7 @@ Annoyingly though, I ran into errors like this with jdb:
 So I had to parse Stack Overflow for a [useful post](https://stackoverflow.com/questions/12737293/how-do-i-resolve-the-java-net-bindexception-address-already-in-use-jvm-bind) which then led me to a [windows command](https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows) since the linux one wouldn't work
 
 Furthermore, JDB is weird in that it can't put breakpoints on blank lines in the IDE - it needs to stop at an actual command.
+
+# Conclusions
+
+JDB is useful for observing actual values, like print statements, but with extra functionality and commands. Combined with JUnit testing, it's really powerful for testing my code, and I won't need to use print statements anymore.
